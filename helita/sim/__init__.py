@@ -9,6 +9,5 @@ __all__ = ["bifrost", "multi", "multi3d", "muram", "rh", "rh15d", "simtools",
 
 from . import bifrost
 from . import multi
-from . import multi3d
-from . import rh15d
+from . import muram
 from . import rh
